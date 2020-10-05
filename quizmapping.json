@@ -1,0 +1,25 @@
+{
+	"quizzes":[
+	{
+		"quizid":"1",
+		"url":"/mod/questionnaire/complete.php?id=2"
+	},
+	{
+		"quizid":"5",
+		"url":"/mod/questionnaire/complete.php?id=5"
+	},
+	{
+		"quizid":"102",
+		"url":"moodle/block/experience_sampling/exSampling102.html"
+	},
+	{
+		"quizid":"103",
+		"url":"moodle/block/experience_sampling/exSampling103.html"
+	},
+	{
+		"quizid":"104",
+		"url":"moodle/block/experience_sampling/exSampling104.html"
+	}
+]
+}
+	
