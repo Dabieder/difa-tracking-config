@@ -1,0 +1,1738 @@
+[
+  {
+    "url": "google.de",
+    "cat1": "search",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "google.com",
+    "cat1": "search",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "youtube.com",
+    "cat1": "video",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "youtube.de",
+    "cat1": "video",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "facebook.de",
+    "cat1": "social media",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "facebook.com",
+    "cat1": "social media",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "amazon.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "amazon.com",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "ebay.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "ebay-kleinanzeigen.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "ebay.com",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "wikipedia.org",
+    "cat1": "wiki",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "web.de",
+    "cat1": "mail",
+    "cat2": "news",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "t-online.de",
+    "cat1": "mail",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "gmx.net",
+    "cat1": "mail",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "bing.com",
+    "cat1": "search",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "yahoo.com",
+    "cat1": "mail",
+    "cat2": "news",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "bild.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "spiegel.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "chip.de",
+    "cat1": "tech support",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "msn.com",
+    "cat1": "news",
+    "cat2": "mail",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "live.com",
+    "cat1": "mail",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "mobile.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "paypal.com",
+    "cat1": "finance",
+    "cat2": "banking",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "xhamster.com",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "gutefrage.net",
+    "cat1": "education",
+    "cat2": "social media",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "streamcloud.eu",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "otto.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "focus.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Immobilienscout24.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Outbrain.com",
+    "cat1": "webservice",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Bs.to",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Twitter.com",
+    "cat1": "social media",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Bongacams.com",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Ok.ru",
+    "cat1": "social media",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Telekom.com",
+    "cat1": "tech support",
+    "cat2": "webservice",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Kinox.to",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Wetter.com",
+    "cat1": "weather",
+    "cat2": "webservice",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Chefkoch.de",
+    "cat1": "food",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Microsoft.com",
+    "cat1": "tech support",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Welt.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Postbank.de",
+    "cat1": "banking",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Pornhub.com",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Instagram.com",
+    "cat1": "social media",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Idealo.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Bahn.de",
+    "cat1": "holiday and travel",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Autoscout24.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "1und1.de",
+    "cat1": "webservice",
+    "cat2": "tech support",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Movie4k.to",
+    "cat1": "video",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Booking.com",
+    "cat1": "holiday and travel",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Blogspot.de",
+    "cat1": "blogging",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Tumblr.com",
+    "cat1": "social media",
+    "cat2": "blogging",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Netflix.com",
+    "cat1": "video",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Twitch.tv",
+    "cat1": "video",
+    "cat2": "entertainment",
+    "cat3": "games",
+    "cat4": ""
+  },
+  {
+    "url": "Zalando.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Fiducia.de",
+    "cat1": "webservice",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Pinterest.com",
+    "cat1": "social media",
+    "cat2": "image hosting",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Xing.com",
+    "cat1": "business",
+    "cat2": "social media",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Youporn.com",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Wordpress.com",
+    "cat1": "blogging",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Ikea.com",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Ask.com",
+    "cat1": "search",
+    "cat2": "education",
+    "cat3": "information",
+    "cat4": ""
+  },
+  {
+    "url": "Heise.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Dict.cc",
+    "cat1": "dictionary",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Computerbild.de",
+    "cat1": "news",
+    "cat2": "tech support",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Arbeitsagentur.de",
+    "cat1": "job search",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Sueddeutsche.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Nowtv.de",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Vice.com",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Txxx.com",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Leo.org",
+    "cat1": "dictionary",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Mediamarkt.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Adobe.com",
+    "cat1": "webservice",
+    "cat2": "tech support",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Sport1.de",
+    "cat1": "sports",
+    "cat2": "news",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Hclips.com",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Zeit.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Deutsche-bank.de",
+    "cat1": "banking",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Amazon.com",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "N-tv.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Faz.net",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Giga.de",
+    "cat1": "news",
+    "cat2": "tech support",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Freenet.de",
+    "cat1": "mail",
+    "cat2": "news",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Tchibo.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Zdf.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Apple.com",
+    "cat1": "shopping",
+    "cat2": "webservice",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Wetteronline.de",
+    "cat1": "weather",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Hm.com",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Dhl.de",
+    "cat1": "shopping",
+    "cat2": "information",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Ing-diba.de",
+    "cat1": "banking",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Telekom.de",
+    "cat1": "shopping",
+    "cat2": "service",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Check24.de",
+    "cat1": "search",
+    "cat2": "shopping",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Commerzbank.de",
+    "cat1": "banking",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Linkedin.com",
+    "cat1": "social media",
+    "cat2": "business",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Livejasmin.com",
+    "cat1": "entertainment",
+    "cat2": "communication",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Aol.com",
+    "cat1": "service",
+    "cat2": "news",
+    "cat3": "search",
+    "cat4": "mail"
+  },
+  {
+    "url": "Stern.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Meinestadt.de",
+    "cat1": "information",
+    "cat2": "job search",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Holidaycheck.de",
+    "cat1": "information",
+    "cat2": "holiday and travel",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Vodafone.de",
+    "cat1": "information",
+    "cat2": "service",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Immowelt.de",
+    "cat1": "information",
+    "cat2": "real estate",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Tagesschau.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "nametests.com",
+    "cat1": "games",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Wikia.com",
+    "cat1": "wiki",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Siteadvisor.com",
+    "cat1": "service",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Imgur.com",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Lidl.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "9gag.com",
+    "cat1": "entertainment",
+    "cat2": "image hosting",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Whatsapp.com",
+    "cat1": "messaging",
+    "cat2": "social media",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "reddit.com",
+    "cat1": "social media",
+    "cat2": "image hosting",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Ebay.com",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Duden.de",
+    "cat1": "information",
+    "cat2": "education",
+    "cat3": "dictionary",
+    "cat4": ""
+  },
+  {
+    "url": "Diply.com",
+    "cat1": "arts and crafts",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Onclickads.net",
+    "cat1": "service",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Dropbox.com",
+    "cat1": "storage",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Imdb.com",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Arcor.de",
+    "cat1": "mail",
+    "cat2": "news",
+    "cat3": "service",
+    "cat4": "telecommunications"
+  },
+  {
+    "url": "Redtube.com",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Einfachporno.com",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Transfermarkt.de",
+    "cat1": "sports",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Wetter.de",
+    "cat1": "weather",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Bonprix.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Sky.de",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Ardmediathek.de",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Dkb.de",
+    "cat1": "banking",
+    "cat2": "service",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "t.co",
+    "cat1": "webservice",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Xvideos.com",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Dawanda.com",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Mail.ru",
+    "cat1": "mail",
+    "cat2": "news",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Wikimedia.org",
+    "cat1": "wiki",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Mydealz.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Office.com",
+    "cat1": "storage",
+    "cat2": "service",
+    "cat3": "office",
+    "cat4": ""
+  },
+  {
+    "url": "Dasoertliche.de",
+    "cat1": "search",
+    "cat2": "register",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Sparda.de",
+    "cat1": "banking",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Saturn.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Upornia.com",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Immonet.de",
+    "cat1": "real estate",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "zinturax.com",
+    "cat1": "webservice",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Ab-in-den-urlaub.de",
+    "cat1": "holiday and travel",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Homepage-web.com",
+    "cat1": "other",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Xnxx.com",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Aol.de",
+    "cat1": "mail",
+    "cat2": "news",
+    "cat3": "search",
+    "cat4": ""
+  },
+  {
+    "url": "Comdirect.de",
+    "cat1": "banking",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Tripadvisor.de",
+    "cat1": "holiday and travel",
+    "cat2": "register",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Daserste.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Tvspielfilm.de",
+    "cat1": "service",
+    "cat2": "register",
+    "cat3": "other",
+    "cat4": ""
+  },
+  {
+    "url": "Rtl.de",
+    "cat1": "entertainment",
+    "cat2": "news",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Vk.com",
+    "cat1": "social media",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Finanzen.net",
+    "cat1": "news",
+    "cat2": "business",
+    "cat3": "finance",
+    "cat4": ""
+  },
+  {
+    "url": "mpnrs.com",
+    "cat1": "webservice",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "sunmaker.com",
+    "cat1": "entertainment",
+    "cat2": "gambling",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Soundcloud.com",
+    "cat1": "entertainment",
+    "cat2": "music",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Conrad.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Payback.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "planetromeo.com",
+    "cat1": "dating",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Indeed.com",
+    "cat1": "job search",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Stackoverflow.com",
+    "cat1": "stackoverflow",
+    "cat2": "tech support",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Eventim.de",
+    "cat1": "shopping",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Likemag.com",
+    "cat1": "entertainment",
+    "cat2": "news",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Mozilla.org",
+    "cat1": "tech support",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "O2online.de",
+    "cat1": "telecommunications",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Avira.com",
+    "cat1": "other",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Uploaded.net",
+    "cat1": "storage",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Stepstone.de",
+    "cat1": "job search",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Steamcommunity.com",
+    "cat1": "games",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Jappy.de",
+    "cat1": "image hosting",
+    "cat2": "social media",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Joyclub.de",
+    "cat1": "social media",
+    "cat2": "forum",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Jimdo.com",
+    "cat1": "holiday and travel",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Dastelefonbuch.de",
+    "cat1": "register",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Trivago.de",
+    "cat1": "holiday and travel",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Chaturbate.com",
+    "cat1": "video",
+    "cat2": "entertainment",
+    "cat3": "messaging",
+    "cat4": ""
+  },
+  {
+    "url": "Linguee.de",
+    "cat1": "dictionary",
+    "cat2": "education",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Billiger.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Moviepilot.de",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Ndr.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Baur.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Aliexpress.com",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Testberichte.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Quoka.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Filmstarts.de",
+    "cat1": "entertainment",
+    "cat2": "news",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Ard.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Tvtoday.de",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Notebooksbilliger.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Tube8.com",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Maxdome.de",
+    "cat1": "video",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Rp-online.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Motor-talk.de",
+    "cat1": "social media",
+    "cat2": "forum",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Vivo.sx",
+    "cat1": "storage",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Fewo-direkt.de",
+    "cat1": "holiday and travel",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Battle.net",
+    "cat1": "games",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Brigitte.de",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Huffingtonpost.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Wdr.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Hdzog.com",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Esprit.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Bunte.de",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Mytoys.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Amazonaws.com",
+    "cat1": "webservice",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Markt.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Computerbase.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "tech support",
+    "cat4": ""
+  },
+  {
+    "url": "Convert2mp3.net",
+    "cat1": "webservice",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Gamestar.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "tech support",
+    "cat4": ""
+  },
+  {
+    "url": "Blogspot.com",
+    "cat1": "blogging",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Googleusercontent.com",
+    "cat1": "other",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Berliner-sparkasse.de",
+    "cat1": "banking",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Dailymotion.com",
+    "cat1": "video",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Steampowered.com",
+    "cat1": "games",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Github.com",
+    "cat1": "tech support",
+    "cat2": "webservice",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Home24.de",
+    "cat1": "real estate",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Friendscout24.de",
+    "cat1": "dating",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Ladenzeile.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Songtexte.com",
+    "cat1": "other",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Br.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "news.ycombinator.com",
+    "cat1": "news",
+    "cat2": "social media",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "qis.server.uni-frankfurt.de",
+    "cat1": "university",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "uni-frankfurt.de",
+    "cat1": "university",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "bildungsserver.de",
+    "cat1": "education",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Woxikon.de",
+    "cat1": "dictionary",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Spielaffe.de",
+    "cat1": "gambling",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Beeg.com",
+    "cat1": "entertainment",
+    "cat2": "video",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Myvideo.de",
+    "cat1": "video",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Derwesten.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Flickr.com",
+    "cat1": "image hosting",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Fluege.de",
+    "cat1": "holiday and travel",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "N24.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Express.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "zynga.com",
+    "cat1": "games",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "fandom.com",
+    "cat1": "wiki",
+    "cat2": "hobby",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Sportschau.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "sports",
+    "cat4": ""
+  },
+  {
+    "url": "Ensonhaber.com",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Avm.de",
+    "cat1": "webservice",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Kleiderkreisel.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Yandex.ru",
+    "cat1": "search",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "duckduckgo.com",
+    "cat1": "search",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "ecosia.com",
+    "cat1": "search",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "qwant.com",
+    "cat1": "search",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Expedia.de",
+    "cat1": "holiday and travel",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "Autobild.de",
+    "cat1": "entertainment",
+    "cat2": "hobby",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "examine.com",
+    "cat1": "science",
+    "cat2": "information",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "pubmed.ncbi.nlm.nih.gov",
+    "cat1": "science",
+    "cat2": "research",
+    "cat3": "search",
+    "cat4": ""
+  },
+  {
+    "url": "scholar.google.com",
+    "cat1": "science",
+    "cat2": "research",
+    "cat3": "search",
+    "cat4": ""
+  },
+  {
+    "url": "lecturio.de",
+    "cat1": "education",
+    "cat2": "studying",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "studienstrategie.de",
+    "cat1": "education",
+    "cat2": "studying",
+    "cat3": "learning strategies",
+    "cat4": ""
+  },
+  {
+    "url": "studizeiten.de",
+    "cat1": "education",
+    "cat2": "studying",
+    "cat3": "learning strategies",
+    "cat4": ""
+  },
+  {
+    "url": "unicum.de",
+    "cat1": "student life",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "unipark.de",
+    "cat1": "survey",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "wg-gesucht.de",
+    "cat1": "real estate",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "uniturm.de",
+    "cat1": "student life",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "web.whatsapp.com",
+    "cat1": "social media",
+    "cat2": "communication",
+    "cat3": "",
+    "cat4": ""
+  }
+]
