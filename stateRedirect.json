@@ -2,29 +2,29 @@
 	"quizzes": [
 		{
 			"quizid": "1",
-			"url": "/mod/questionnaire/complete.php?id=2"
+			"url": "/mod/questionnaire/view.php?id=41"
 		},
 		{
 			"quizid": "5",
-			"url": "/mod/questionnaire/complete.php?id=5"
+			"url": "/mod/questionnaire/view.php?id=41"
 		},
 		{
 			"quizid": "102",
-			"url": "moodle/block/experience_sampling/exSampling102.html"
+			"url": "/mod/questionnaire/view.php?id=41"
 		},
 		{
 			"quizid": "103",
-			"url": "moodle/block/experience_sampling/exSampling103.html"
+			"url": "/mod/questionnaire/view.php?id=41"
 		},
 		{
 			"quizid": "104",
-			"url": "moodle/block/experience_sampling/exSampling104.html"
+			"url": "/mod/questionnaire/view.php?id=41"
 		}
 	],
 	"forums": [
 		{
 			"forumid": "1",
-			"url": "/mod/questionnaire/complete.php?id=2"
+			"url": "/mod/questionnaire/view.php?id=41"
 		}
 	]
 }
