@@ -56,6 +56,13 @@
     "cat4": ""
   },
   {
+    "url": "smile.amazon.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
     "url": "ebay.de",
     "cat1": "shopping",
     "cat2": "",
@@ -176,9 +183,9 @@
   },
   {
     "url": "gutefrage.net",
-    "cat1": "education",
+    "cat1": "learning",
     "cat2": "social media",
-    "cat3": "",
+    "cat3": "social media",
     "cat4": ""
   },
   {
@@ -772,7 +779,7 @@
   {
     "url": "Duden.de",
     "cat1": "information",
-    "cat2": "education",
+    "cat2": "learning",
     "cat3": "dictionary",
     "cat4": ""
   },
@@ -1192,7 +1199,7 @@
   {
     "url": "Linguee.de",
     "cat1": "dictionary",
-    "cat2": "education",
+    "cat2": "learning",
     "cat3": "",
     "cat4": ""
   },
@@ -1736,8 +1743,603 @@
     "cat4": ""
   },
   {
+    "url": "trends.google.com",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "werder.de",
+    "cat1": "sports",
+    "cat2": "entertainment",
+    "cat3": "news",
+    "cat4": ""
+  },
+  {
+    "url": "kicker.de",
+    "cat1": "sports",
+    "cat2": "entertainment",
+    "cat3": "news",
+    "cat4": ""
+  },
+  {
+    "url": "tz.de",
+    "cat1": "entertainment",
+    "cat2": "news",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "spox.com",
+    "cat1": "entertainment",
+    "cat2": "news",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "morgenpost.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "boerse-online.de",
+    "cat1": "news",
+    "cat2": "finance",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "idowa.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "t3n.de",
+    "cat1": "news",
+    "cat2": "technology",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "manager-magazin.de",
+    "cat1": "news",
+    "cat2": "finance",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "gamepro.de",
+    "cat1": "games",
+    "cat2": "news",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "slant.co",
+    "cat1": "shopping",
+    "cat2": "search",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "de.wikipedia.org",
+    "cat1": "wiki",
+    "cat2": "information",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "gesundheit.de",
+    "cat1": "health",
+    "cat2": "news",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "apotheken-umschau.de",
+    "cat1": "health",
+    "cat2": "news",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
     "url": "difa.edutec.science",
-    "cat1": "difa moodle",
+    "cat1": "DiFA",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "wattpad.com",
+    "cat1": "social media",
+    "cat2": "hobby",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "yelp.com",
+    "cat1": "social media",
+    "cat2": "shopping",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "giphy.com",
+    "cat1": "social media",
+    "cat2": "image hosting",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "web.telegram.org",
+    "cat1": "communication",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "discord.com",
+    "cat1": "communication",
+    "cat2": "games",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "play.google.com",
+    "cat1": "shopping",
+    "cat2": "games",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "newtab",
+    "cat1": "newtab",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "elsevier.com",
+    "cat1": "research",
+    "cat2": "academia",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "office-partner.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "w3schools.com",
+    "cat1": "programming",
+    "cat2": "learning",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "aparat.com",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "pr0gramm.com",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "achgut.com",
+    "cat1": "news",
+    "cat2": "blogging",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "real.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "mindfactory.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "alternate.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "rokna.net",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "deepl.com",
+    "cat1": "dictionary",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "tvnow.de",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "spotify.com",
+    "cat1": "music",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "zoom.us",
+    "cat1": "video conference",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "webex.com",
+    "cat1": "video conference",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "genius.com",
+    "cat1": "entertainment",
+    "cat2": "news",
+    "cat3": "entertainment",
+    "cat4": ""
+  },
+  {
+    "url": "boerse.to",
+    "cat1": "forum",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "discogs.com",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "winfuture.de",
+    "cat1": "news",
+    "cat2": "technology",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "joyn.de",
+    "cat1": "video",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "linguee.de",
+    "cat1": "dictionary",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "hornbach.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "google.com.ua",
+    "cat1": "search",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "rewe.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "udemy",
+    "cat1": "mooc",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "khanacademy.com",
+    "cat1": "mooc",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "coursera.com",
+    "cat1": "mooc",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "pons.com",
+    "cat1": "dictionary",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "eurosport.de",
+    "cat1": "news",
+    "cat2": "sports",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "t.me",
+    "cat1": "messaging",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "onlinefussballmanager.de",
+    "cat1": "entertainment",
+    "cat2": "games",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "discordapp.com",
+    "cat1": "video",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "express.de",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "twitter.de",
+    "cat1": "social media",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "4chan.org",
+    "cat1": "entertainment",
+    "cat2": "social media",
+    "cat3": "forum",
+    "cat4": ""
+  },
+  {
+    "url": "spektrum.de",
+    "cat1": "news",
+    "cat2": "science",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "adac.de",
+    "cat1": "information",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "patreon.com",
+    "cat1": "social media",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "tchibo.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "caseking.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "hamburg.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "conrad.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "mmoga.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "chetor.com",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "stackexchange.com",
+    "cat1": "forum",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "sciencedirect.com",
+    "cat1": "research",
+    "cat2": "science",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "taz.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "filmstarts.de",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "dailymotion.com",
+    "cat1": "video",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "rt.com",
+    "cat1": "news",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "tk.de",
+    "cat1": "information",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "linkedin.com",
+    "cat1": "social media",
+    "cat2": "business",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "toom.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "mangadex.org",
+    "cat1": "entertainment",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "swr.de",
+    "cat1": "news",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "douglas.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "docmorris.de",
+    "cat1": "shopping",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "ultimate-guitar.com",
+    "cat1": "hobby",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "radio.de",
+    "cat1": "music",
+    "cat2": "entertainment",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "quoka.de",
+    "cat1": "shopping",
+    "cat2": "job search",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "deviantart.com",
+    "cat1": "hobby",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "tiktok.com",
+    "cat1": "social media",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "wish.com",
+    "cat1": "shopping",
     "cat2": "",
     "cat3": "",
     "cat4": ""
