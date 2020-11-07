@@ -2343,5 +2343,26 @@
     "cat2": "",
     "cat3": "",
     "cat4": ""
+  },
+    {
+    "url": "medium.com",
+    "cat1": "blogging",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "xkcd.com",
+    "cat1": "webcomic",
+    "cat2": "",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "golem.de",
+    "cat1": "news",
+    "cat2": "technology",
+    "cat3": "",
+    "cat4": ""
   }
 ]
