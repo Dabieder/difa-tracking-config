@@ -85,7 +85,7 @@
   },
   {
     "url": "wikipedia.org",
-    "cat1": "wiki",
+    "cat1": "wikipedia",
     "cat2": "",
     "cat3": "",
     "cat4": ""
@@ -1828,7 +1828,7 @@
   },
   {
     "url": "de.wikipedia.org",
-    "cat1": "wiki",
+    "cat1": "wikipedia",
     "cat2": "information",
     "cat3": "",
     "cat4": ""
@@ -2362,6 +2362,13 @@
     "url": "golem.de",
     "cat1": "news",
     "cat2": "technology",
+    "cat3": "",
+    "cat4": ""
+  },
+  {
+    "url": "en.wikipedia.org",
+    "cat1": "wikipedia",
+    "cat2": "",
     "cat3": "",
     "cat4": ""
   }
