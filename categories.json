@@ -335,5 +335,6 @@
   "medium.com": ["blogging"],
   "xkcd.com": ["webcomic"],
   "golem.de": ["news", "technology"],
-  "en.wikipedia.org": ["wikipedia"]
+  "en.wikipedia.org": ["wikipedia"],
+  "de.wiktionary.org": ["wiktionary"]
 }
